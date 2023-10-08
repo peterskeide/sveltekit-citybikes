@@ -1,0 +1,13 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/oslobysykkel.no/station_status.json"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "GET_station_status_response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
